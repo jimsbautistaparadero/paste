@@ -1,0 +1,141 @@
+ CommunityBased Disaster Risk Reduction and Management Information System in the Philippines (2019)
+
+Related Study:
+
+Goh et al. (2019) developed a communitybased disaster risk reduction and management information system designed to support disaster preparedness and emergency response in the Philippines. Unlike basic emergencyreporting applications, the system incorporates decisionsupport capabilities, multidimensional databases, and Geographic Information Systems (GIS). Its administrative modules include community registration, evacuation management, search and rescue operations, donation management, evacuation center profiling, weather forecasting, and private messaging. An especially relevant feature is its ability to consolidate disasteraffected areas and individuals through geospatial visualization and generate predicted lists of potential evacuees using logistic regression analysis. The researchers also evaluated its system performance, reporting response times ranging from 31 to 419 milliseconds. This study is relevant because it demonstrates how barangaylevel information can be transformed into actionable information for emergency coordination, resource allocation, and disaster preparedness.
+
+APA 7th Edition Reference
+
+Goh, J. E. E., Goh, M. L. I., & Baccay, M. A. (2019). Communitybased disaster risk reduction and management information system in the Philippines. 2019 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE), 581–586. [https://doi.org/10.1109/ICCIKE47802.2019.9004391](https://doi.org/10.1109/ICCIKE47802.2019.9004391?utm_source=chatgpt.com)
+
+ Advancing Smart Disaster Response by Leveraging Social Sensing and Mobile Technology (2026)
+
+Related Study:
+
+Zhou et al. (2026) investigated the integration of social sensing, citizen science, volunteered geographic information, and mobile GIS technologies to improve disaster response. The researchers introduced an iterative, usercentered development framework for collecting firsthand observations from individuals during disaster events. Instead of depending exclusively on official disaster information or passive social media monitoring, the proposed approach allows participants to actively submit geotagged observations, categorized incident information, and different media formats. Its pilot implementation during actual hurricane events demonstrated the application's capability to operate in both online and offline environments. The study is relevant because it introduces the concept of residents functioning as distributed information sources, allowing emergency responders to obtain localized information about flooding, road closures, infrastructure damage, and other developing situations.
+
+APA 7th Edition Reference
+
+Zhou, S., Wu, M., Ye, X., Silbernagel, J., Hart, D. A., & Huang, Q. (2026). Advancing smart disaster response by leveraging social sensing and mobile technology. GeoSpatial Information Science, 29(4), 2651–2669. [https://doi.org/10.1080/10095020.2025.2588034](https://doi.org/10.1080/10095020.2025.2588034?utm_source=chatgpt.com)
+
+ Assessing the Maturity of Citizen Reporting Platforms: Unpacking Dimensions, Disparities, and Determinants (2026)
+
+Related Study:
+
+Saliterer et al. (2026) examined the maturity of citizen reporting platforms implemented across 194 German municipalities. Rather than focusing exclusively on the availability of reporting features, the researchers investigated whether these platforms provide meaningful communication, usability, responsiveness, and accountability mechanisms. Their framework identified an important distinction between systems that merely accept citizen complaints and those that allow residents to monitor how their submissions are processed and resolved. The findings revealed that usability was generally more developed, whereas responsiveness and accountability were considerably less common. This research is relevant because it identifies a limitation frequently overlooked in community reporting applications: allowing residents to submit complaints does not necessarily mean that government officials provide transparent followup or demonstrate actual resolution. Its assessment framework can also serve as a reference for evaluating the proposed system.
+
+APA 7th Edition Reference
+
+Saliterer, I., Leppert, K., & Hohensinn, L. (2026). Assessing the maturity of citizen reporting platforms: Unpacking dimensions, disparities, and determinants. Public Performance & Management Review. Advance online publication. [https://doi.org/10.1080/15309576.2026.2760820](https://doi.org/10.1080/15309576.2026.2760820?utm_source=chatgpt.com)
+
+ Potholes, 311 Reports, and a Theory of Heterogeneous Resident Demand for City Services (2024)
+
+Related Study:
+
+Cook et al. (2024) examined how residents use 311 civic reporting systems to communicate infrastructure problems and request government services. Using censustract data from Houston, Texas, the researchers investigated the relationship between socioeconomic characteristics, the frequency of citizen reports, and the actual distribution of community problems. Their findings revealed that neighborhoods with lower socioeconomic status and higher proportions of minority residents submitted fewer reports despite experiencing more infrastructure problems, particularly potholes. The study identified a significant concern regarding digital reporting platforms: the number of complaints received does not necessarily represent the actual number of problems experienced by a community. This research is relevant because it highlights the importance of ensuring that barangay reporting systems remain accessible to all residents and that officials do not rely exclusively on submitted complaints when identifying community needs.
+
+APA 7th Edition Reference
+
+Cook, S. J., Zuhlke, S., & Saywitz, R. (2024). Potholes, 311 reports, and a theory of heterogeneous resident demand for city services. Policy Studies Journal, 52(3), 647–669. [https://doi.org/10.1111/psj.12540](https://doi.org/10.1111/psj.12540?utm_source=chatgpt.com)
+
+ How Institutionalized Feedback Works: Online Citizen Complaints and Local Government Responsiveness in China (2025)
+
+Related Study:
+
+Wang et al. (2025) investigated the relationship between online citizen complaints and government responsiveness using data from two public petition platforms in China. The researchers analyzed 238,835 citizen claims from a national online petition platform and 793,119 claims from Wuhan's local petition website. Their findings indicated that institutionalized online complaints were associated with greater government responsiveness compared with noncomplaint communications. The study also examined the administrative mechanisms behind this relationship, particularly how officials' expectations of negative feedback and organizational accountability influenced their responses to citizen concerns. This research is relevant because it demonstrates that the effectiveness of a digital complaint platform depends not only on its reporting interface but also on the administrative procedures that encourage officials to acknowledge, process, and respond to submitted concerns.
+
+APA 7th Edition Reference
+
+Wang, H. H., Cheng, E. W., Chen, X., & Liang, H. (2025). How institutionalized feedback works: Online citizen complaints and local government responsiveness in China. Governance, 38(2), Article e12907. [https://doi.org/10.1111/gove.12907](https://doi.org/10.1111/gove.12907?utm_source=chatgpt.com)
+
+ Design and Implementation of a Mobile Health Electronic Data Capture Platform That Functions in FullyDisconnected Settings: A Pilot Study in Rural Liberia (2020)
+
+Related Study:
+
+Kenny et al. (2020) developed and evaluated a mobile electronic data capture platform capable of functioning in environments without cellular connectivity. The researchers implemented the system among 317 community health workers and 28 supervisors in rural Liberia, where internet access and electricity were limited. The application enabled users to collect information offline and exchange data through Bluetoothbased bidirectional communication without depending on conventional internet infrastructure. The study demonstrated that fully disconnected data collection was feasible and could remain operational for extended periods. Although its original application focused on healthcare data collection, its technical approach is relevant to barangay emergency reporting because disasters can damage communication infrastructure or interrupt internet services. The study provides a useful foundation for developing offline report submission, local data storage, and delayed synchronization when connectivity becomes available.
+
+APA 7th Edition Reference
+
+Kenny, A., Gordon, N., Downey, J., Eddins, O., Buchholz, K., Menyon, A., & Mansah, W. (2020). Design and implementation of a mobile health electronic data capture platform that functions in fullydisconnected settings: A pilot study in rural Liberia. BMC Medical Informatics and Decision Making, 20, Article 39. [https://doi.org/10.1186/s1291102010596](https://doi.org/10.1186/s1291102010596?utm_source=chatgpt.com)
+
+ Citizens' Intention to Use EGovernment Services: The Case of EComplaint Service in Indonesia (2021)
+
+Related Study:
+
+Pribadi (2021) examined the factors influencing citizens' willingness to use electronic complaint services provided by local governments in Indonesia. The research investigated how attitudes, facilitating conditions, social influences, and user habits affect the adoption of digital government services. The findings indicated that citizens' attitudes toward the technology and the availability of adequate facilities significantly influenced their intention to use electronic complaint platforms. The study also emphasized the importance of improving user training and strengthening technological infrastructure to encourage public participation. This research is relevant because the success of a barangay reporting system depends not only on its technical capabilities but also on whether residents can understand, access, and consistently use its features. It supports the inclusion of straightforward navigation, accessible reporting procedures, and appropriate user assistance.
+
+APA 7th Edition Reference
+
+Pribadi, U. (2021). Citizens' intention to use egovernment services: The case of ecomplaint service in Indonesia. International Journal of Electronic Governance, 13(2), 114–131. [https://doi.org/10.1504/IJEG.2021.116884](https://doi.org/10.1504/IJEG.2021.116884?utm_source=chatgpt.com)
+
+ Crowdsourcing Behavior in Reporting Civic Issues: The Case of Boston's 311 Systems (2021)
+
+Related Study:
+
+Lee et al. (2021) examined the reporting behavior of residents using Boston's 311 civic technology systems. The researchers investigated how differences in community characteristics and individual reporting behavior influence the information collected through digital civic platforms. Their research highlighted the possibility of reporting bias, wherein certain groups contribute more information than others because of differences in technological access, digital literacy, and reporting habits. This creates a potential problem when government agencies use citizengenerated reports to determine which communities require attention and public services. The study is relevant because it emphasizes the importance of designing an inclusive barangay reporting platform that accommodates residents with different levels of technological familiarity. It also suggests that barangay officials should combine digital submissions with administrative observations and other community information sources to avoid overlooking unreported problems.
+
+APA 7th Edition Reference
+
+Lee, M., Wang, J., Janzen, S., Winter, S., & Harlow, J. (2021). Crowdsourcing behavior in reporting civic issues: The case of Boston's 311 systems. Proceedings of the Academy of Management Annual Meeting. [https://doi.org/10.5465/AMBPP.2021.16532abstract](https://doi.org/10.5465/AMBPP.2021.16532abstract?utm_source=chatgpt.com)
+
+ Predictors of Risk Reduction Behavior: Evidence in LastMile Communities (2024)
+
+Related Study:
+
+This study investigated the factors influencing disaster preparedness and riskreduction behavior in two lastmile communities in Northern Philippines, namely Cabalitian and Mapita. Using surveys and semistructured interviews, the researchers examined how residents respond to early warning messages before and after Super Typhoon Mangkhut. The findings identified perceived vulnerability, disaster severity, selfefficacy, response efficacy, previous disaster experiences, trust in local authorities, and social network strength as important factors influencing protective behavior. The researchers also emphasized that limitations in infrastructure, institutional support, and communication accessibility can affect the ability of vulnerable communities to respond effectively to disaster warnings. This study is relevant to the proposed system because it provides Philippinebased evidence that emergency communication must consider not only the delivery of information but also residents' ability to understand, trust, and act upon it.
+
+APA 7th Edition Reference
+
+Predictors of risk reduction behavior: Evidence in lastmile communities. (2024). International Journal of Disaster Risk Reduction, 113, Article 104875. [https://doi.org/10.1016/j.ijdrr.2024.104875](https://doi.org/10.1016/j.ijdrr.2024.104875?utm_source=chatgpt.com)
+
+Synthesis of the Related Studies
+
+The reviewed studies reveal several research areas that are not adequately addressed by conventional emergency and complaintreporting applications.
+
+First, Goh et al. (2019) and Zhou et al. (2026) demonstrate the importance of integrating geospatial information, citizengenerated observations, and decisionsupport capabilities into disaster management systems. Their findings support the development of a platform that can collect incident information, identify affected locations, and provide officials with useful information for emergency coordination.
+
+Second, Kenny et al. (2020) and the lastmile community research (2024) highlight the importance of system accessibility and communication reliability during emergencies. These studies suggest that a reporting application should not depend entirely on continuous internet connectivity and that emergency information must remain accessible to communities with limited technological infrastructure.
+
+Third, Cook et al. (2024), Lee et al. (2021), and Pribadi (2021) demonstrate that digital reporting systems face challenges involving unequal participation, technology adoption, and accessibility. These findings suggest that an effective barangay platform must accommodate different types of residents and should not treat the absence of digital complaints as evidence that no community problems exist.
+
+Finally, Wang et al. (2025) and Saliterer et al. (2026) emphasize the importance of government responsiveness, transparent complaint processing, and accountability. Their findings suggest that digital reporting should extend beyond the initial submission of concerns by providing residents with meaningful information about the status and resolution of their reports.
+
+Research Gap and Contribution of the Proposed Study
+
+An important gap identified across the reviewed literature is the separation between emergency response, ordinary community problem reporting, and public feedback management. Existing studies demonstrate that these areas can benefit from digital platforms, but their findings also reveal limitations concerning offline accessibility, reporting inclusivity, administrative responsiveness, and transparent resolution tracking.
+
+The proposed Design and Development of an Integrated WebBased and AndroidBased Barangay Emergency, Community Problem Reporting, and Feedback Management System intends to address these limitations through a unified platform with the following capabilities:
+
+ Research Dimension             Proposed System Contribution                                                                                           
+  
+ Emergency Response           Emergency submissions, GPS coordinates, incident photographs, responder coordination, and emergency status monitoring. 
+ Community Reporting          Reporting infrastructure damage, sanitation problems, environmental concerns, and other barangayrelated issues.       
+ Feedback Management          Resident suggestions, service evaluations, feedback categorization, and administrative responses.                      
+ Offline Accessibility          Local report storage and synchronization when internet connectivity becomes available.                                 
+ Geospatial Intelligence        Mapping reported incidents, identifying recurring problem locations, and visualizing community concerns.               
+ Administrative Accountability  Report assignment, status tracking, action history, resolution documentation, and response monitoring.                 
+ Decision Support               Statistical reports, incident trends, unresolved complaints, and community problem summaries.                          
+
+The central contribution of the proposed study is not simply the creation of another reporting application. It is the integration of emergency communication, routine community problem resolution, and public feedback into one coordinated barangay information management platform.
+
+This integration provides a stronger basis for studying how digital technologies can improve not only the submission of community concerns but also their documentation, prioritization, resolution, and evaluation.
+
+References
+
+Cook, S. J., Zuhlke, S., & Saywitz, R. (2024). Potholes, 311 reports, and a theory of heterogeneous resident demand for city services. Policy Studies Journal, 52(3), 647–669. [https://doi.org/10.1111/psj.12540](https://doi.org/10.1111/psj.12540?utm_source=chatgpt.com)
+
+Goh, J. E. E., Goh, M. L. I., & Baccay, M. A. (2019). Communitybased disaster risk reduction and management information system in the Philippines. 2019 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE), 581–586. [https://doi.org/10.1109/ICCIKE47802.2019.9004391](https://doi.org/10.1109/ICCIKE47802.2019.9004391?utm_source=chatgpt.com)
+
+Kenny, A., Gordon, N., Downey, J., Eddins, O., Buchholz, K., Menyon, A., & Mansah, W. (2020). Design and implementation of a mobile health electronic data capture platform that functions in fullydisconnected settings: A pilot study in rural Liberia. BMC Medical Informatics and Decision Making, 20, Article 39. [https://doi.org/10.1186/s1291102010596](https://doi.org/10.1186/s1291102010596?utm_source=chatgpt.com)
+
+Lee, M., Wang, J., Janzen, S., Winter, S., & Harlow, J. (2021). Crowdsourcing behavior in reporting civic issues: The case of Boston's 311 systems. Proceedings of the Academy of Management Annual Meeting. [https://doi.org/10.5465/AMBPP.2021.16532abstract](https://doi.org/10.5465/AMBPP.2021.16532abstract?utm_source=chatgpt.com)
+
+Pribadi, U. (2021). Citizens' intention to use egovernment services: The case of ecomplaint service in Indonesia. International Journal of Electronic Governance, 13(2), 114–131. [https://doi.org/10.1504/IJEG.2021.116884](https://doi.org/10.1504/IJEG.2021.116884?utm_source=chatgpt.com)
+
+Predictors of risk reduction behavior: Evidence in lastmile communities. (2024). International Journal of Disaster Risk Reduction, 113, Article 104875. [https://doi.org/10.1016/j.ijdrr.2024.104875](https://doi.org/10.1016/j.ijdrr.2024.104875?utm_source=chatgpt.com)
+
+Saliterer, I., Leppert, K., & Hohensinn, L. (2026). Assessing the maturity of citizen reporting platforms: Unpacking dimensions, disparities, and determinants. Public Performance & Management Review. Advance online publication. [https://doi.org/10.1080/15309576.2026.2760820](https://doi.org/10.1080/15309576.2026.2760820?utm_source=chatgpt.com)
+
+Wang, H. H., Cheng, E. W., Chen, X., & Liang, H. (2025). How institutionalized feedback works: Online citizen complaints and local government responsiveness in China. Governance, 38(2), Article e12907. [https://doi.org/10.1111/gove.12907](https://doi.org/10.1111/gove.12907?utm_source=chatgpt.com)
+
+Zhou, S., Wu, M., Ye, X., Silbernagel, J., Hart, D. A., & Huang, Q. (2026). Advancing smart disaster response by leveraging social sensing and mobile technology. GeoSpatial Information Science, 29(4), 2651–2669. [https://doi.org/10.1080/10095020.2025.2588034](https://doi.org/10.1080/10095020.2025.2588034?utm_source=chatgpt.com)
